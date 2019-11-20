@@ -133,10 +133,10 @@ def all_holidays_with_bbq(holiday_hash)
         bbq_array << holiday
       end
     end
-    puts bbq_array
+     
   end
   
-
+ bbq_array
 end
 
 
