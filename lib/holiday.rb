@@ -132,7 +132,7 @@ def all_holidays_with_bbq(holiday_hash)
       supplies.include?("BBQ") bbq_array << holiday
       
     end
-    
+    puts bbq_array
   end
   
 
